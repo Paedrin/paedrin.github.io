@@ -38,7 +38,7 @@ disqus_shortname:
   #ad-slot:
 #bing-verify:
 email: paedrintv@gmail.com
-twitter: twitter.com/paedrin
+twitter: paedrin
 #facebook:           username
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
@@ -50,7 +50,7 @@ twitter: twitter.com/paedrin
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              twitch.tv/paedrintv
+#steam:             
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
